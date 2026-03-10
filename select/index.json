@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ピエロ",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-03-10T23:12:01.146447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "Kashitaro Ito",
+      "has_synced": false,
+      "path": "select/01_ピエロ_Kashitaro_Ito.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/02_ピエロ_B'z.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/03_ピエロ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/04_ピエロ_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピエロ (Pierrot)",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_ピエロ_(Pierrot)_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/06_ピエロ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/07_ピエロ_Kano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "Kei",
+      "has_synced": false,
+      "path": "select/08_ピエロ_Kei.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "田原 俊彦",
+      "has_synced": true,
+      "path": "select/09_ピエロ_田原_俊彦.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/10_ピエロ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/11_ピエロ_B’z.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/12_ピエロ_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "B'z - Album",
+      "has_synced": true,
+      "path": "select/13_ピエロ_B'z_-_Album.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/14_ピエロ_B'z.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ピエロ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/15_ピエロ_鹿乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピエロ",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_ピエロ_伊東歌詞太郎.txt"
+    }
+  ]
+}
